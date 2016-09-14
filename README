@@ -1,0 +1,13 @@
+Instructions on how to obtain source files from the compressed file:
+
+1. The files for Stage 1 are in the Stage 1 folder in the zip file. The Stage 1 folder should have the files client1.py and server1.py.
+
+2. The files for Stage 2 are in the Stage 2 folder in the zip file. The Stage 2 folder should have the files client2.py, server2.py, manager.in, and manager.py.
+
+
+Extra information:
+
+The client programs must be executed with 2 parameters, address and port, respectively.
+The manager and server programs are executed without any arguments.
+
+The programs are Python 2.7 programs so the python interpreter must be used to execute them.
